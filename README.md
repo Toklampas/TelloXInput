@@ -1,2 +1,4 @@
 # TelloXInput
-A Phyton program that lets you control the Tello drone with any XInput controller
+A Phyton program that lets you control your Tello drone with any XInput compatible controller
+
+Instructions are shown when you run the program
